@@ -1,0 +1,11 @@
+{
+  "name": "devtalk",
+  "version": "1.0.0",
+  "description": "Dev talk 10/2019",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
